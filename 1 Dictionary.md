@@ -15,3 +15,6 @@
 [[Sharding]]
 [[ACID]]
 [[BASE]]-Basically Available, Soft state, Eventually consistent
+[[CAP]] - Theorem
+[[Strong Consistency]]
+[[Eventual Consistency]]
