@@ -71,7 +71,7 @@
 # R
 [[Replication]] 
 [[Resilience]]
-
+[[Retry Policies]]
 # S
 [[Strong Consistency]]
 [[SaaS]] -Software as a Service
