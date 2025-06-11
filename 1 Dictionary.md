@@ -11,7 +11,7 @@
 # C
 [[CAP]] - Theorem
 [[Choreography]]
-
+[[CDN]]  - Content Delivery Network
 
 # D
 [[DBaaS]] -Database as a Service
@@ -46,7 +46,7 @@
 
 # L
 [[Load Balancing]] 
-
+[[Latency]]
 
 
 # M
@@ -79,7 +79,7 @@
 [[Sharding]]
 
 # T
-
+[[Throughput]]
 
 # U 
 
