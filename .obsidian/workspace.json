@@ -15,7 +15,7 @@
               "state": {
                 "file": "1 Dictionary.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "1 Dictionary"
@@ -170,8 +170,10 @@
   },
   "active": "165331b1d97f9bcd",
   "lastOpenFiles": [
-    "Strong Consistency.md",
+    "Choreography.md",
     "1 Dictionary.md",
+    "Orchestration.md",
+    "Strong Consistency.md",
     "Eventual Consistency.md",
     "ACID.md",
     "Sharding.md",
