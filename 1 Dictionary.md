@@ -6,7 +6,7 @@
 
 # B
 [[BASE]]-Basically Available, Soft state, Eventually consistent
-
+[[Bounded Context]] 
 
 # C
 [[CAP]] - Theorem
@@ -20,7 +20,7 @@
 
 # E
 [[Eventual Consistency]]
-
+[[Extendability]]
 
 # F
 [[Fault Tolerance]]
@@ -47,7 +47,7 @@
 # L
 [[Load Balancing]] 
 [[Latency]]
-
+[[Loose Coupling]]
 
 # M
 
@@ -70,7 +70,7 @@
 
 # R
 [[Replication]] 
-
+[[Resilience]]
 
 # S
 [[Strong Consistency]]
@@ -80,7 +80,7 @@
 
 # T
 [[Throughput]]
-
+[[Tight Coupling]]
 # U 
 
 
