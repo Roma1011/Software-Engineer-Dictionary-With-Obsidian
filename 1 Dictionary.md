@@ -12,7 +12,7 @@
 [[CAP]] - Theorem
 [[Choreography]]
 [[CDN]]  - Content Delivery Network
-
+[[Consumer]]
 # D
 [[DBaaS]] -Database as a Service
 [[Distributed Database]]
@@ -63,7 +63,7 @@
 
 # P
 [[PaaS]] -Platform as a Service
-
+[[Producer]] 
 
 # Q
 
