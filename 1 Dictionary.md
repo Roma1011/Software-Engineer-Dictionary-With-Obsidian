@@ -17,7 +17,10 @@
 [[DBaaS]] -Database as a Service
 [[Distributed Database]]
 [[RDBMS]] - Relational Database Management System
-
+[[Driver Adapters]]
+[[Driven Adapters]]
+[[Driver Ports]]
+[[Driven Ports]]
 # E
 [[Eventual Consistency]]
 [[Extendability]]
@@ -82,7 +85,7 @@
 [[Throughput]]
 [[Tight Coupling]]
 # U 
-
+[[Use Cases]]
 
 # V 
 [[Vertical Scaling]]
