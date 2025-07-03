@@ -2,7 +2,7 @@
 
 # A
 [[ACID]]
-
+[[Alignment]]
 
 # B
 [[BASE]]-Basically Available, Soft state, Eventually consistent
@@ -67,7 +67,8 @@
 # P
 [[PaaS]] -Platform as a Service
 [[Producer]] 
-
+[[Padding]]
+[[Packing]]
 # Q
 
 
