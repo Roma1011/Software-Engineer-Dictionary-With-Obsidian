@@ -90,7 +90,7 @@
 
 # V 
 [[Vertical Scaling]]
-
+[[Volatile Non Volatile Storage]]
 
 # W
 
