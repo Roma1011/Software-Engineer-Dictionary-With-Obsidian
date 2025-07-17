@@ -81,7 +81,7 @@
 [[SaaS]] -Software as a Service
 [[Semi-Structured Data]]
 [[Sharding]]
-
+[[SuD System under Design  Development  Discussion]]
 # T
 [[Throughput]]
 [[Tight Coupling]]

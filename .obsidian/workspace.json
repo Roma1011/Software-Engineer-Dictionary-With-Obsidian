@@ -4,81 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "3f3e55b1cec52c31",
+        "id": "c4a2472647c2cf72",
         "type": "tabs",
         "children": [
           {
-            "id": "dd20f45dcd27214b",
+            "id": "1648ded71fdd0ee2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Dictionary.md",
+                "file": "SuD System under Design  Development  Discussion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 Dictionary"
-            }
-          },
-          {
-            "id": "86860643130851cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Dictionary.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1 Dictionary"
-            }
-          },
-          {
-            "id": "5c4c6392fa7c9fca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Dictionary.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1 Dictionary"
-            }
-          },
-          {
-            "id": "a373ea52ee0c5301",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Volatile Non Volatile Storage.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Volatile Non Volatile Storage"
-            }
-          },
-          {
-            "id": "7881fe3663ea5d37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Padding.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Padding"
+              "title": "SuD System under Design  Development  Discussion"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,12 +168,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a373ea52ee0c5301",
+  "active": "1648ded71fdd0ee2",
   "lastOpenFiles": [
     "1 Dictionary.md",
-    "Volatile Non Volatile Storage.md",
+    "SuD System under Design  Development  Discussion.md",
     "Packing.md",
     "Padding.md",
+    "Volatile Non Volatile Storage.md",
     "Alignment.md",
     "ACID.md",
     "Driven Adapters.md",
@@ -252,7 +196,6 @@
     "Choreography.md",
     "Orchestration.md",
     "Strong Consistency.md",
-    "Eventual Consistency.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
