@@ -21,6 +21,7 @@
 [[Driven Adapters]]
 [[Driver Ports]]
 [[Driven Ports]]
+[[DOC]]- depended-on component
 # E
 [[Eventual Consistency]]
 [[Extendability]]
@@ -82,6 +83,7 @@
 [[Semi-Structured Data]]
 [[Sharding]]
 [[SuD System under Design  Development  Discussion]]
+[[SUT System Under Test]] 
 # T
 [[Throughput]]
 [[Tight Coupling]]
