@@ -2,7 +2,7 @@
 
 # A
 [[ACID]]
-
+[[Alignment]]
 
 # B
 [[BASE]]-Basically Available, Soft state, Eventually consistent
@@ -17,7 +17,11 @@
 [[DBaaS]] -Database as a Service
 [[Distributed Database]]
 [[RDBMS]] - Relational Database Management System
-
+[[Driver Adapters]]
+[[Driven Adapters]]
+[[Driver Ports]]
+[[Driven Ports]]
+[[DOC]]- depended-on component
 # E
 [[Eventual Consistency]]
 [[Extendability]] 
@@ -64,7 +68,8 @@
 # P
 [[PaaS]] -Platform as a Service
 [[Producer]] 
-
+[[Padding]]
+[[Packing]]
 # Q
 
 
@@ -77,16 +82,18 @@
 [[SaaS]] -Software as a Service
 [[Semi-Structured Data]]
 [[Sharding]]
-
+[[SuD System under Design  Development  Discussion]]
+[[SUT System Under Test]] 
 # T
 [[Throughput]]
 [[Tight Coupling]]
+[[Transaction Script]]
 # U 
-
+[[Use Cases]]
 
 # V 
 [[Vertical Scaling]]
-
+[[Volatile Non Volatile Storage]]
 
 # W
 
