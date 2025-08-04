@@ -20,8 +20,8 @@
 
 # E
 [[Eventual Consistency]]
-[[Extendability]]
-
+[[Extendability]] 
+[[EAP]]-Event-based Asynchronous Pattern
 # F
 [[Fault Tolerance]]
 
