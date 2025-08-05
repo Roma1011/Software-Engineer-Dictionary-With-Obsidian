@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Dictionary.md",
+                "file": "Rich Domain Model.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "1 Dictionary"
+              "title": "Rich Domain Model"
             }
           }
         ]
@@ -168,13 +168,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a72834276f584d84",
+  "active": "d2c66646c07dfdb6",
   "lastOpenFiles": [
+    "1 Dictionary.md",
+    "Rich Domain Model.md",
+    "ACID.md",
+    "Anemic Domain Model.md",
+    "Invocator.md",
+    "Extrinsic State.md",
     "TAP.md",
     "EAP.md",
     "APM.md",
-    "Extrinsic State.md",
-    "1 Dictionary.md",
     "Intrinsic State.md",
     "Transaction Script.md",
     "DOC.md",
@@ -184,7 +188,6 @@
     "Padding.md",
     "Volatile Non Volatile Storage.md",
     "Alignment.md",
-    "ACID.md",
     "Driven Adapters.md",
     "Driven Ports.md",
     "Driver Ports.md",
@@ -193,9 +196,6 @@
     "Consumer.md",
     "Producer.md",
     "Retry Policies.md",
-    "Resilience.md",
-    "Extendability.md",
-    "Tight Coupling.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

@@ -3,6 +3,7 @@
 # A
 [[ACID]]
 [[Alignment]]
+[[Anemic Domain Model]]
 
 # B
 [[BASE]]-Basically Available, Soft state, Eventually consistent
@@ -46,7 +47,7 @@
 # I 
 [[IaaS]] -Infrastructure as a Service
 [[Intrinsic State]]
-
+[[Invocator]]
 # J
 
 
@@ -83,7 +84,7 @@
 [[Replication]] 
 [[Resilience]]
 [[Retry Policies]]
-
+[[Rich Domain Model]]
 # S
 [[Strong Consistency]]
 [[SaaS]] -Software as a Service
