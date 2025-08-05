@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rich Domain Model.md",
+                "file": "1 Dictionary.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Rich Domain Model"
+              "title": "1 Dictionary"
             }
           }
         ]
@@ -170,8 +170,8 @@
   },
   "active": "d2c66646c07dfdb6",
   "lastOpenFiles": [
-    "1 Dictionary.md",
     "Rich Domain Model.md",
+    "1 Dictionary.md",
     "ACID.md",
     "Anemic Domain Model.md",
     "Invocator.md",
