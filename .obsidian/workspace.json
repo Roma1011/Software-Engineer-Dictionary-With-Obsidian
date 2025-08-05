@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transaction Script.md",
-                "mode": "preview",
+                "file": "1 Dictionary.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Transaction Script"
+              "title": "1 Dictionary"
             }
           }
         ]
@@ -170,7 +170,9 @@
   },
   "active": "d2c66646c07dfdb6",
   "lastOpenFiles": [
+    "Extrinsic State.md",
     "1 Dictionary.md",
+    "Intrinsic State.md",
     "Transaction Script.md",
     "DOC.md",
     "SUT System Under Test.md",
@@ -194,8 +196,6 @@
     "Loose Coupling.md",
     "Bounded Context.md",
     "Throughput.md",
-    "Latency.md",
-    "CDN.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

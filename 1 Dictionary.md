@@ -13,6 +13,7 @@
 [[Choreography]]
 [[CDN]]  - Content Delivery Network
 [[Consumer]]
+
 # D
 [[DBaaS]] -Database as a Service
 [[Distributed Database]]
@@ -22,9 +23,11 @@
 [[Driver Ports]]
 [[Driven Ports]]
 [[DOC]]- depended-on component
+
 # E
 [[Eventual Consistency]]
 [[Extendability]]
+[[Extrinsic State]]
 
 # F
 [[Fault Tolerance]]
@@ -40,7 +43,7 @@
 
 # I 
 [[IaaS]] -Infrastructure as a Service
-
+[[Intrinsic State]]
 
 # J
 
@@ -70,6 +73,7 @@
 [[Producer]] 
 [[Padding]]
 [[Packing]]
+
 # Q
 
 
@@ -77,6 +81,7 @@
 [[Replication]] 
 [[Resilience]]
 [[Retry Policies]]
+
 # S
 [[Strong Consistency]]
 [[SaaS]] -Software as a Service
@@ -84,10 +89,12 @@
 [[Sharding]]
 [[SuD System under Design  Development  Discussion]]
 [[SUT System Under Test]] 
+
 # T
 [[Throughput]]
 [[Tight Coupling]]
 [[Transaction Script]]
+
 # U 
 [[Use Cases]]
 
