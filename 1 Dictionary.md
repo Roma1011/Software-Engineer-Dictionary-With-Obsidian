@@ -26,9 +26,14 @@
 
 # E
 [[Eventual Consistency]]
+<<<<<<< HEAD
 [[Extendability]]
 [[Extrinsic State]]
 
+=======
+[[Extendability]] 
+[[EAP]]-Event-based Asynchronous Pattern
+>>>>>>> 6ef70c8546b648165330cc6c2c08f0c580bbb895
 # F
 [[Fault Tolerance]]
 

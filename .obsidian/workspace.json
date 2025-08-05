@@ -168,8 +168,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d2c66646c07dfdb6",
+  "active": "a72834276f584d84",
   "lastOpenFiles": [
+    "TAP.md",
+    "EAP.md",
+    "APM.md",
     "Extrinsic State.md",
     "1 Dictionary.md",
     "Intrinsic State.md",
@@ -193,9 +196,6 @@
     "Resilience.md",
     "Extendability.md",
     "Tight Coupling.md",
-    "Loose Coupling.md",
-    "Bounded Context.md",
-    "Throughput.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
