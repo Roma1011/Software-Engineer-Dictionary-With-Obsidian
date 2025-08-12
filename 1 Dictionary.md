@@ -97,6 +97,8 @@
 [[Throughput]]
 [[Tight Coupling]]
 [[Transaction Script]]
+[[Ternary Operator]]
+
 
 # U 
 [[Use Cases]]
@@ -106,7 +108,7 @@
 [[Volatile Non Volatile Storage]]
 
 # W
-
+[[Wrapper]]
 
 # X
 
@@ -115,7 +117,7 @@
 
 
 # Z
-
+[[Zero Downtime Deployment]]
 
 
 
