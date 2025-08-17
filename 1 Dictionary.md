@@ -48,6 +48,7 @@
 [[IaaS]] -Infrastructure as a Service
 [[Intrinsic State]]
 [[Invocator]]
+[[Integration Strength]]
 # J
 
 
