@@ -8,7 +8,7 @@
 # B
 [[BASE]]-Basically Available, Soft state, Eventually consistent
 [[Bounded Context]] 
-
+[[Backwards compatibility]]
 # C
 [[CAP]] - Theorem
 [[Choreography]]
