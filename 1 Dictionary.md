@@ -3,7 +3,9 @@
 # A
 [[ACID]]
 [[Alignment]]
+[[APM]]
 [[Anemic Domain Model]]
+
 
 # B
 [[BASE]]-Basically Available, Soft state, Eventually consistent
@@ -16,6 +18,7 @@
 [[Consumer]]
 [[Coherence]]
 [[Coupling]]
+[[CPU-Bound]]
 
 # D
 [[DBaaS]] -Database as a Service
@@ -31,7 +34,6 @@
 [[Eventual Consistency]]
 [[Extendability]]
 [[Extrinsic State]]
-[[Extendability]] 
 [[EAP]]
 
 # F
@@ -48,6 +50,7 @@
 
 # I 
 [[IaaS]] -Infrastructure as a Service
+[[I/O-Bound]]
 [[Intrinsic State]]
 [[Invocator]]
 [[Integration Strength]]
@@ -98,6 +101,7 @@
 # T
 [[Throughput]]
 [[Transaction Script]]
+[[TAP]]
 [[Ternary Operator]]
 
 
