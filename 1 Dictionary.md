@@ -3,6 +3,7 @@
 # A
 [[ACID]]
 [[Alignment]]
+[[APM]]
 
 # B
 [[BASE]]-Basically Available, Soft state, Eventually consistent
@@ -13,6 +14,7 @@
 [[Choreography]]
 [[CDN]]  - Content Delivery Network
 [[Consumer]]
+[[CPU-Bound]]
 # D
 [[DBaaS]] -Database as a Service
 [[Distributed Database]]
@@ -40,7 +42,7 @@
 
 # I 
 [[IaaS]] -Infrastructure as a Service
-
+[[I/O-Bound]]
 
 # J
 
@@ -88,6 +90,7 @@
 [[Throughput]]
 [[Tight Coupling]]
 [[Transaction Script]]
+[[TAP]]
 # U 
 [[Use Cases]]
 
