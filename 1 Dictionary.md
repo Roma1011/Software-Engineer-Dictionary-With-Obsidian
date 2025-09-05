@@ -14,6 +14,8 @@
 [[Choreography]]
 [[CDN]]  - Content Delivery Network
 [[Consumer]]
+[[Coherence]]
+[[Coupling]]
 
 # D
 [[DBaaS]] -Database as a Service
@@ -58,7 +60,6 @@
 # L
 [[Load Balancing]] 
 [[Latency]]
-[[Loose Coupling]]
 
 # M
 
@@ -96,7 +97,6 @@
 
 # T
 [[Throughput]]
-[[Tight Coupling]]
 [[Transaction Script]]
 [[Ternary Operator]]
 
