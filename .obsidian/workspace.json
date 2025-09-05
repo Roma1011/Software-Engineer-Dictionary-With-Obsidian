@@ -198,8 +198,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3eb915f886cb4130",
+  "active": "a72834276f584d84",
   "lastOpenFiles": [
+    "Zero Downtime Deployment.md",
+    "Wrapper.md",
+    "Volatility Software.md",
+    "Ternary Operator.md",
+    "Rich Domain Model.md",
+    "Invocator.md",
+    "Intrinsic State.md",
+    "Integration Strength.md",
+    "Extrinsic State.md",
+    "Backwards compatibility.md",
+    "Anemic Domain Model.md",
     "CPU-Bound.md",
     "1 Dictionary.md",
     "I/O-Bound.md",
@@ -217,17 +228,6 @@
     "Padding.md",
     "Packing.md",
     "Driver Ports.md",
-    "Driver Adapters.md",
-    "Driven Ports.md",
-    "Driven Adapters.md",
-    "DOC.md",
-    "Alignment.md",
-    "APM.md",
-    "Producer.md",
-    "Consumer.md",
-    "ACID.md",
-    "Retry Policies.md",
-    "Resilience.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

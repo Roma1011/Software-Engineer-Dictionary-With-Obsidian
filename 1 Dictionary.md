@@ -4,17 +4,20 @@
 [[ACID]]
 [[Alignment]]
 [[APM]]
+[[Anemic Domain Model]]
+
 
 # B
 [[BASE]]-Basically Available, Soft state, Eventually consistent
 [[Bounded Context]] 
-
+[[Backwards compatibility]]
 # C
 [[CAP]] - Theorem
 [[Choreography]]
 [[CDN]]  - Content Delivery Network
 [[Consumer]]
 [[CPU-Bound]]
+
 # D
 [[DBaaS]] -Database as a Service
 [[Distributed Database]]
@@ -24,10 +27,14 @@
 [[Driver Ports]]
 [[Driven Ports]]
 [[DOC]]- depended-on component
+
 # E
 [[Eventual Consistency]]
+[[Extendability]]
+[[Extrinsic State]]
 [[Extendability]] 
-[[EAP]]-Event-based Asynchronous Pattern
+[[EAP]]
+
 # F
 [[Fault Tolerance]]
 
@@ -43,7 +50,9 @@
 # I 
 [[IaaS]] -Infrastructure as a Service
 [[I/O-Bound]]
-
+[[Intrinsic State]]
+[[Invocator]]
+[[Integration Strength]]
 # J
 
 
@@ -72,6 +81,7 @@
 [[Producer]] 
 [[Padding]]
 [[Packing]]
+
 # Q
 
 
@@ -79,6 +89,7 @@
 [[Replication]] 
 [[Resilience]]
 [[Retry Policies]]
+[[Rich Domain Model]]
 # S
 [[Strong Consistency]]
 [[SaaS]] -Software as a Service
@@ -86,20 +97,24 @@
 [[Sharding]]
 [[SuD System under Design  Development  Discussion]]
 [[SUT System Under Test]] 
+
 # T
 [[Throughput]]
 [[Tight Coupling]]
 [[Transaction Script]]
 [[TAP]]
+[[Ternary Operator]]
+
+
 # U 
 [[Use Cases]]
 
 # V 
 [[Vertical Scaling]]
 [[Volatile Non Volatile Storage]]
-
+[[Volatility Software]]
 # W
-
+[[Wrapper]]
 
 # X
 
@@ -108,7 +123,7 @@
 
 
 # Z
-
+[[Zero Downtime Deployment]]
 
 
 
