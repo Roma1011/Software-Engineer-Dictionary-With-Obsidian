@@ -29,7 +29,7 @@
 [[Driver Ports]]
 [[Driven Ports]]
 [[DOC]]- depended-on component
-
+[[Debt Log]]
 # E
 [[Eventual Consistency]]
 [[Extendability]]
