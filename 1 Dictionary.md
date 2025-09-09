@@ -19,7 +19,7 @@
 [[Coherence]]
 [[Coupling]]
 [[CPU-Bound]]
-
+[[COBIT]]
 # D
 [[DBaaS]] -Database as a Service
 [[Distributed Database]]
@@ -54,6 +54,10 @@
 [[Intrinsic State]]
 [[Invocator]]
 [[Integration Strength]]
+[[Informative Messages]]
+[[Imperative Messages]]
+
+
 # J
 
 
