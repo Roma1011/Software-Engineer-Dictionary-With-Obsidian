@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "5eebcd23d43d9e46",
+        "id": "1bab5b1cf69a6d46",
         "type": "tabs",
         "children": [
           {
-            "id": "12e26d78ff063a66",
+            "id": "7fcdcd31acff996f",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,26 +17,40 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "1 Dictionary"
             }
           },
           {
-            "id": "e5a7713625dc74e3",
+            "id": "3eb915f886cb4130",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CDN.md",
+                "file": "1 Dictionary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CDN"
+              "title": "1 Dictionary"
+            }
+          },
+          {
+            "id": "0225c9e30296b8a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "I/O-Bound.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "O-Bound"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,35 +198,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12e26d78ff063a66",
+  "active": "a72834276f584d84",
   "lastOpenFiles": [
-    "CDN.md",
-    "1 Dictionary.md",
-    "Imperative Messages.md",
     "Interrogative Messages.md",
     "Informative Messages.md",
-    "COBIT.md",
+    "Imperative Messages.md",
     "Debt Log.md",
-    "I/O-Bound.md",
-    "I",
-    "CPU-Bound.md",
-    "Coherence.md",
     "Coupling.md",
-    "Loose Coupling.md",
-    "Tight Coupling.md",
-    "Integration Strength.md",
-    "Volatility Software.md",
-    "Backwards compatibility.md",
+    "Coherence.md",
+    "COBIT.md",
     "Zero Downtime Deployment.md",
     "Wrapper.md",
+    "Volatility Software.md",
     "Ternary Operator.md",
     "Rich Domain Model.md",
-    "ACID.md",
-    "Anemic Domain Model.md",
     "Invocator.md",
+    "Intrinsic State.md",
+    "Integration Strength.md",
     "Extrinsic State.md",
-    "TAP.md",
+    "Backwards compatibility.md",
+    "Anemic Domain Model.md",
+    "CPU-Bound.md",
+    "1 Dictionary.md",
+    "I/O-Bound.md",
+    "I/I-O-Bound.md",
+    "I-I/O-Bound.md",
+    "I-I",
+    "I",
     "EAP.md",
+    "TAP.md",
+    "Volatile Non Volatile Storage.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
