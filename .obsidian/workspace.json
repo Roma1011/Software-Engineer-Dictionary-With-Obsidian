@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dictionary.md",
-                "mode": "preview",
-                "source": false
+                "file": "Debt Log.md",
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Dictionary"
+              "title": "Debt Log"
             }
           }
         ]
@@ -171,9 +171,9 @@
   },
   "active": "0225c9e30296b8a9",
   "lastOpenFiles": [
+    "Dictionary.md",
     "Volatile Non Volatile Storage.md",
     "SuD System under Design  Development  Discussion.md",
-    "Dictionary.md",
     "I/O-Bound.md",
     "BASE.md",
     "Interrogative Messages.md",
