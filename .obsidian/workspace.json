@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Debt Log.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -171,6 +171,7 @@
   },
   "active": "0225c9e30296b8a9",
   "lastOpenFiles": [
+    "I O-Bound.md",
     "Dictionary.md",
     "Volatile Non Volatile Storage.md",
     "SuD System under Design  Development  Discussion.md",
@@ -196,7 +197,6 @@
     "Anemic Domain Model.md",
     "CPU-Bound.md",
     "I/I-O-Bound.md",
-    "I-I/O-Bound.md",
     "I-I",
     "I",
     "Untitled.canvas",

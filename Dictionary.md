@@ -47,7 +47,7 @@
 
 # I 
 - [[IaaS]] - Infrastructure as a Service
-- [[I/O-Bound]]
+- [[I O-Bound]]
 - [[Intrinsic State]]
 - [[Invocator]]
 - [[Integration Strength]]
