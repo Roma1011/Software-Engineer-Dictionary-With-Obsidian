@@ -35,6 +35,7 @@
 - [[Extendability]]
 - [[Extrinsic State]]
 - [[EAP]]
+- [[ETL –Extract, Transform, Load]]
 
 # F
 - [[Fault Tolerance]]
@@ -69,7 +70,9 @@
 
 # O
 - [[Orchestration]]
-
+- [[OLAP  Online Analytical Processing]]
+- [[OLTP Online Transaction Processing]]
+- [[OLTP vs. OLAP]]
 # P
 - [[PaaS]] - Platform as a Service
 - [[Producer]]
