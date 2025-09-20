@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a45f7ff33dba8e03",
+        "id": "a2479f088d1bde78",
         "type": "tabs",
         "children": [
           {
-            "id": "e876a82179f37ab2",
+            "id": "84eea5c5c3b9d353",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Naming  Conventions.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Naming  Conventions"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pas",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -166,39 +169,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e876a82179f37ab2",
+  "active": "84eea5c5c3b9d353",
   "lastOpenFiles": [
-    "PascalCase -- camelCase.md",
+    "Naming  Conventions.md",
+    "ACID.md",
+    "Untitled 17.base",
+    "Pascal.base",
+    "Untitled 16.base",
+    "Pascal Case.canvas",
+    "Untitled 15.base",
+    "Untitled 14.base",
+    "Backwards compatibility.md",
+    "Untitled.canvas",
+    "Untitled 13.base",
+    "Untitled 12.base",
+    "Untitled 11.base",
+    "RDBMS.md",
+    "Untitled 10.base",
     "camelCase.md",
-    "Alignment.md",
-    "Untitled 1.base",
-    "Untitled.base",
-    "PaaS.md",
-    "Dictionary.md",
-    "Volatile Non Volatile Storage.md",
-    "SuD System under Design  Development  Discussion.md",
-    "I/O-Bound.md",
-    "BASE.md",
-    "Interrogative Messages.md",
-    "Informative Messages.md",
-    "Imperative Messages.md",
-    "Debt Log.md",
-    "Coupling.md",
-    "Coherence.md",
-    "COBIT.md",
+    "Untitled 9.base",
+    "Throughput.md",
     "Zero Downtime Deployment.md",
     "Wrapper.md",
-    "Volatility Software.md",
-    "Ternary Operator.md",
-    "Rich Domain Model.md",
-    "Invocator.md",
+    "Strong Consistency.md",
+    "Resilience.md",
+    "NoSQL.md",
+    "Load Balancing.md",
     "Intrinsic State.md",
-    "Integration Strength.md",
-    "Extrinsic State.md",
-    "Backwards compatibility.md",
-    "I-I",
-    "I",
-    "Untitled.canvas",
-    "Untitled 1.canvas"
+    "Horizontal Scaling.md",
+    "Distributed Database.md",
+    "DBaaS.md",
+    "Choreography.md",
+    "CDN.md",
+    "APM.md",
+    "COBIT.md",
+    "Latency.md",
+    "TAP.md",
+    "PascalCase -- camelCase.md",
+    "Alignment.md",
+    "PaaS.md",
+    "Dictionary.md"
   ]
 }
