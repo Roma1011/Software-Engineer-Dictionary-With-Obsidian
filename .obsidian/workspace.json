@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "163693a6062b3746",
+        "id": "58a8622c863f75f6",
         "type": "tabs",
         "children": [
           {
-            "id": "9546f17c651896ec",
+            "id": "8f1a872a72a2692c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -165,8 +165,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9546f17c651896ec",
+  "active": "8f1a872a72a2692c",
   "lastOpenFiles": [
+    "disigne pricipals.md",
     "Http status codes.md",
     "Naming  Conventions.md",
     "ACID.md",
@@ -203,7 +204,6 @@
     "Latency.md",
     "TAP.md",
     "PascalCase -- camelCase.md",
-    "Alignment.md",
-    "PaaS.md"
+    "Alignment.md"
   ]
 }
