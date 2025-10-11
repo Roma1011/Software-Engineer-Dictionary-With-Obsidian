@@ -3,6 +3,7 @@
 - [[Alignment]]
 - [[APM]]
 - [[Anemic Domain Model]]
+- [[Aggregation]]
 
 # B
 - [[BASE]] - Basically Available, Soft state, Eventually consistent
@@ -18,6 +19,9 @@
 - [[Coupling]]
 - [[CPU-Bound]]
 - [[COBIT]]
+- [[Constituent Object]]
+- [[Component Object]]
+- [[Composition]]
 
 # D
 - [[DBaaS]] - Database as a Service
