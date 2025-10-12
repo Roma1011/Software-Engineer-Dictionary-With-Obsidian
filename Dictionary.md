@@ -49,6 +49,8 @@
 # H
 - [[Horizontal Scaling]]
 - [[High Availability]] - HA
+- [[Homeomeric Object]]
+- [[Heteromeric Object]]
 
 # I 
 - [[IaaS]] - Infrastructure as a Service
