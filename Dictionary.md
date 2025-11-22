@@ -73,6 +73,7 @@
 
 # N
 - [[NoSQL]] - Not Only SQL
+- [[NRT]] - Nullable Reference Types
 
 # O
 - [[Orchestration]]
