@@ -80,11 +80,14 @@
 - [[OLAP  Online Analytical Processing]]
 - [[OLTP Online Transaction Processing]]
 - [[OLTP vs. OLAP]]
+
+
 # P
 - [[PaaS]] - Platform as a Service
 - [[Producer]]
 - [[Padding]]
 - [[Packing]]
+- [[Projection]]
 
 # Q
 
