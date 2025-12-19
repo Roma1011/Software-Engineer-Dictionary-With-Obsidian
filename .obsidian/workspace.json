@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projection.md",
+                "file": "Multitenancy.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Projection"
+              "title": "Multitenancy"
             }
           }
         ]
@@ -172,6 +172,7 @@
   "active": "0225c9e30296b8a9",
   "lastOpenFiles": [
     "Dictionary.md",
+    "Multitenancy.md",
     "Projection.md",
     "Debt Log.md",
     "OLTP vs. OLAP.md",
@@ -196,7 +197,6 @@
     "Coupling.md",
     "Coherence.md",
     "COBIT.md",
-    "Zero Downtime Deployment.md",
     "I-I",
     "I",
     "Untitled.canvas",

@@ -70,6 +70,7 @@
 - [[Latency]]
 
 # M
+[[Multitenancy]]
 
 # N
 - [[NoSQL]] - Not Only SQL
