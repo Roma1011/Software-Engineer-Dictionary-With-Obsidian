@@ -33,6 +33,7 @@
 - [[Driven Ports]]
 - [[DOC]] - Depended-on component
 - [[Debt Log]]
+- [[Interrogative Messages]]
 
 # E
 - [[Eventual Consistency]]
