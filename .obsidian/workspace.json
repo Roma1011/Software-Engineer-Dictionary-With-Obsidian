@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Multitenancy.md",
+                "file": "PAT Port Address Translation.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Multitenancy"
+              "title": "PAT Port Address Translation"
             }
           }
         ]
@@ -172,6 +172,7 @@
   "active": "0225c9e30296b8a9",
   "lastOpenFiles": [
     "Dictionary.md",
+    "PAT Port Address Translation.md",
     "Multitenancy.md",
     "Projection.md",
     "Debt Log.md",
@@ -196,7 +197,6 @@
     "Imperative Messages.md",
     "Coupling.md",
     "Coherence.md",
-    "COBIT.md",
     "I-I",
     "I",
     "Untitled.canvas",
