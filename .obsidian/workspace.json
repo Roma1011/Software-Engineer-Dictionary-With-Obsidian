@@ -169,8 +169,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f53946f09200353b",
+  "active": "a72834276f584d84",
   "lastOpenFiles": [
+    "README.md",
+    "LICENSE",
     "Interrogative Messages.md",
     "Debt Log.md",
     "PAT Port Address Translation.md",
@@ -196,7 +198,6 @@
     "Informative Messages.md",
     "Imperative Messages.md",
     "Coupling.md",
-    "Coherence.md",
     "I-I",
     "I",
     "Untitled.canvas",
