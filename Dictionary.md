@@ -44,6 +44,8 @@
 
 # F
 - [[Fault Tolerance]]
+- [[Forwards compatibility]]
+- [[Full compatibility]]
 
 # G
 
@@ -52,6 +54,7 @@
 - [[High Availability]] - HA
 - [[Homeomeric Object]]
 - [[Heteromeric Object]]
+- [[Housekeeping]]
 
 # I 
 - [[IaaS]] - Infrastructure as a Service
@@ -107,6 +110,7 @@
 - [[Sharding]]
 - [[SuD System under Design  Development  Discussion]]
 - [[SUT System Under Test]]
+- [[Schema Registry]]
 
 # T
 - [[Throughput]]
