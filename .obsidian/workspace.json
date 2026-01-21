@@ -43,7 +43,7 @@
               "state": {
                 "file": "ACID.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "ACID"
