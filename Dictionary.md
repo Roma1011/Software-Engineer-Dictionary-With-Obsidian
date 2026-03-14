@@ -101,6 +101,8 @@
 - [[Sharding]]
 - [[SuD System under Design  Development  Discussion]]
 - [[SUT System Under Test]]
+- [[Stateful]]
+- [[Stateless]]
 
 # T
 - [[Throughput]]
