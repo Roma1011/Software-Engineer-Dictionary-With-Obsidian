@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2ba18378e711df1d",
+        "id": "45821b23350f5ae5",
         "type": "tabs",
         "children": [
           {
-            "id": "2e103736fd71f646",
+            "id": "4ac1f5718f62c227",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Dictionary.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Dictionary"
             }
           }
         ]
@@ -165,17 +169,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "2e103736fd71f646",
+  "active": "4ac1f5718f62c227",
   "lastOpenFiles": [
+    "Choreography.md",
+    "CDN.md",
+    "Bounded Context.md",
+    "BASE.md",
+    "Backwards compatibility.md",
+    "Backfill.md",
+    "APM.md",
+    "Anemic Domain Model.md",
+    "Alignment.md",
+    "Aggregation.md",
+    "ACID.md",
+    "README.md",
+    "Words",
+    "New folder",
+    "Schema Registry.md",
+    "Projection.md",
+    "PAT Port Address Translation.md",
+    "Multitenancy.md",
+    "LICENSE",
+    "Housekeeping.md",
+    "Full compatibility.md",
+    "Forwards compatibility.md",
     "Stateless.md",
     "Dictionary.md",
     "Stateful.md",
     "NRT.md",
     "Heteromeric Object.md",
     "Homeomeric Object.md",
-    "Component Object.md",
-    "Composition.md",
-    "Constituent Object.md",
-    "Aggregation.md"
+    "Component Object.md"
   ]
 }

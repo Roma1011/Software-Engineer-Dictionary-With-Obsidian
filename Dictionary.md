@@ -9,6 +9,7 @@
 - [[BASE]] - Basically Available, Soft state, Eventually consistent
 - [[Bounded Context]]
 - [[Backwards compatibility]]
+- [[Backfill]]
 
 # C
 - [[CAP]] - Theorem
@@ -33,6 +34,7 @@
 - [[Driven Ports]]
 - [[DOC]] - Depended-on component
 - [[Debt Log]]
+- [[Interrogative Messages]]
 
 # E
 - [[Eventual Consistency]]
@@ -43,6 +45,8 @@
 
 # F
 - [[Fault Tolerance]]
+- [[Forwards compatibility]]
+- [[Full compatibility]]
 
 # G
 
@@ -51,6 +55,7 @@
 - [[High Availability]] - HA
 - [[Homeomeric Object]]
 - [[Heteromeric Object]]
+- [[Housekeeping]]
 
 # I 
 - [[IaaS]] - Infrastructure as a Service
@@ -70,6 +75,7 @@
 - [[Latency]]
 
 # M
+[[Multitenancy]]
 
 # N
 - [[NoSQL]] - Not Only SQL
@@ -80,11 +86,15 @@
 - [[OLAP  Online Analytical Processing]]
 - [[OLTP Online Transaction Processing]]
 - [[OLTP vs. OLAP]]
+
+
 # P
 - [[PaaS]] - Platform as a Service
 - [[Producer]]
 - [[Padding]]
 - [[Packing]]
+- [[Projection]]
+- [[PAT Port Address Translation]]
 
 # Q
 
@@ -103,7 +113,7 @@
 - [[SUT System Under Test]]
 - [[Stateful]]
 - [[Stateless]]
-
+- [[Schema Registry]]
 # T
 - [[Throughput]]
 - [[Transaction Script]]
