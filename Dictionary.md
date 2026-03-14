@@ -86,6 +86,7 @@
 - [[OLAP  Online Analytical Processing]]
 - [[OLTP Online Transaction Processing]]
 - [[OLTP vs. OLAP]]
+- [[Over-engineered solution]]
 
 
 # P
@@ -122,7 +123,7 @@
 
 # U 
 - [[Use Cases]]
-
+- [[Under-engineered solution]]
 # V 
 - [[Vertical Scaling]]
 - [[Volatile Non Volatile Storage]]
