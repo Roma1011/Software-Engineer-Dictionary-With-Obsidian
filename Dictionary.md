@@ -42,6 +42,7 @@
 - [[Extrinsic State]]
 - [[EAP]]
 - [[ETL –Extract, Transform, Load]]
+- [[Entity–Relationship Diagram (ERD)]]
 
 # F
 - [[Fault Tolerance]]
