@@ -97,6 +97,7 @@
 - [[Packing]]
 - [[Projection]]
 - [[PAT Port Address Translation]]
+- [[Published Language]]
 
 # Q
 
@@ -121,6 +122,7 @@
 - [[Transaction Script]]
 - [[TAP]]
 - [[Ternary Operator]]
+- [[TouchPoint]]
 
 # U 
 - [[Use Cases]]
