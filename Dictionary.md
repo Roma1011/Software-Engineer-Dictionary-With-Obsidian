@@ -76,7 +76,7 @@
 - [[Latency]]
 
 # M
-[[Multitenancy]]
+- [[Multitenancy]]
 
 # N
 - [[NoSQL]] - Not Only SQL
