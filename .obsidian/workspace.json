@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "17f622655646ee4a",
+    "id": "68a8cadf2f2bf33f",
     "type": "split",
     "children": [
       {
-        "id": "44479c0f4fb3930b",
+        "id": "1256250f244efe07",
         "type": "tabs",
         "children": [
           {
-            "id": "4953c27f2e5380df",
+            "id": "f53946f09200353b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,22 +20,37 @@
               "icon": "lucide-file",
               "title": "Dictionary"
             }
+          },
+          {
+            "id": "94a38a234b39e24c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Words/R/REPL Read–Eval–Print Loop.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "REPL Read–Eval–Print Loop"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "3dcd803124a46577",
+    "id": "3070b6441d810f19",
     "type": "split",
     "children": [
       {
-        "id": "a044c40fc5eef6f0",
+        "id": "066ddbe64f2b82c4",
         "type": "tabs",
         "children": [
           {
-            "id": "52c8004cc37431b9",
+            "id": "a72834276f584d84",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +63,7 @@
             }
           },
           {
-            "id": "9afad9a0cee4cdfa",
+            "id": "6b434e25a09acbd3",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +80,7 @@
             }
           },
           {
-            "id": "eaed68c7b0f43160",
+            "id": "48aa3fb8becd891f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +96,20 @@
     "width": 300
   },
   "right": {
-    "id": "1096acf83660ed28",
+    "id": "fd9ac3adebf32b09",
     "type": "split",
     "children": [
       {
-        "id": "1a67314764f78f9c",
+        "id": "85c09be780b0ded8",
         "type": "tabs",
         "children": [
           {
-            "id": "1683867ccabf49e9",
+            "id": "b5ac15b6b92fa9be",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dictionary.md",
+                "file": "1 Dictionary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +119,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Dictionary"
+              "title": "Backlinks for 1 Dictionary"
             }
           },
           {
-            "id": "8461c122263fdded",
+            "id": "a6be38e7d86b8e95",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dictionary.md",
+                "file": "1 Dictionary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Dictionary"
+              "title": "Outgoing links from 1 Dictionary"
             }
           },
           {
-            "id": "e035bd07a1722b4f",
+            "id": "9f734f62c8540270",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +152,18 @@
             }
           },
           {
-            "id": "bc99249c7c6a7352",
+            "id": "c5831602c228d513",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dictionary.md",
+                "file": "1 Dictionary.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dictionary"
+              "title": "Outline of 1 Dictionary"
             }
           }
         ]
@@ -160,52 +175,54 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "4953c27f2e5380df",
+  "active": "a72834276f584d84",
   "lastOpenFiles": [
-    "Words/R/RDBMS.md",
-    "Words/Z",
-    "Words/W",
-    "Words/V",
-    "Words/U",
-    "Words/T",
-    "Words/S",
-    "Words/R",
-    "Words/O/OLTP Online Transaction Processing.md",
-    "Words/P",
-    "Words/C/Choreography.md",
-    "Words/O",
-    "Words/N",
-    "Words/P/Published Language.md",
+    "Words/R/REPL Read–Eval–Print Loop.md",
     "Dictionary.md",
-    "Words/T/TouchPoint.md",
-    "Words/E/Entity–Relationship Diagram (ERD).md",
-    "Words/U/Under-engineered solution.md",
-    "Words/O/Over-engineered solution.md",
-    "Words/P/PaaS.md",
+    "Words/D/Driver Adapters.md",
+    "Backfill.md",
+    "Words/Z/Zero Downtime Deployment.md",
+    "Words/Z",
+    "Words/W/Wrapper.md",
+    "Words/W",
     "Words/V/Volatility Software.md",
     "Words/V/Volatile Non Volatile Storage.md",
     "Words/V/Vertical Scaling.md",
+    "Words/V",
     "Words/U/Use Cases.md",
-    "Words/T/Transaction Script.md",
+    "Words/U/Under-engineered solution.md",
+    "Words/U",
+    "Words/T/TouchPoint.md",
     "Words/T/Throughput.md",
     "Words/T/Ternary Operator.md",
+    "Words/T/Transaction Script.md",
     "Words/T/TAP.md",
+    "Words/T",
     "Words/S/SUT System Under Test.md",
-    "Words/S/SuD System under Design  Development  Discussion.md",
     "Words/S/Strong Consistency.md",
+    "Words/S/SuD System under Design  Development  Discussion.md",
     "Words/S/Stateless.md",
-    "Words/S/Stateful.md",
     "Words/S/Sharding.md",
+    "Words/S/Stateful.md",
     "Words/S/Semi-Structured Data.md",
-    "Words/S/Schema Registry.md"
+    "Words/S/SaaS.md",
+    "Words/S/Schema Registry.md",
+    "Words/S",
+    "Words/R/Retry Policies.md",
+    "Words/R",
+    "Words/P",
+    "Words/O",
+    "Words/N",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
   ]
 }
