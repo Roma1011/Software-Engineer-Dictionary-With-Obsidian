@@ -169,8 +169,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "4953c27f2e5380df",
+  "active": "52c8004cc37431b9",
   "lastOpenFiles": [
+    "Words/P/Plain Old Objects.md",
+    "Dictionary.md",
+    "Words/I/Invariant.md",
     "Words/R/RDBMS.md",
     "Words/Z",
     "Words/W",
@@ -185,7 +188,6 @@
     "Words/O",
     "Words/N",
     "Words/P/Published Language.md",
-    "Dictionary.md",
     "Words/T/TouchPoint.md",
     "Words/E/Entity–Relationship Diagram (ERD).md",
     "Words/U/Under-engineered solution.md",
@@ -204,8 +206,6 @@
     "Words/S/Strong Consistency.md",
     "Words/S/Stateless.md",
     "Words/S/Stateful.md",
-    "Words/S/Sharding.md",
-    "Words/S/Semi-Structured Data.md",
-    "Words/S/Schema Registry.md"
+    "Words/S/Sharding.md"
   ]
 }

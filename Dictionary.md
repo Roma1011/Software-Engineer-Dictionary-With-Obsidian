@@ -66,6 +66,7 @@
 - [[Integration Strength]]
 - [[Informative Messages]]
 - [[Imperative Messages]]
+- [[Invariant]]
 
 # J
 
@@ -98,7 +99,7 @@
 - [[Projection]]
 - [[PAT Port Address Translation]]
 - [[Published Language]]
-
+- [[Plain Old Objects]]
 # Q
 
 # R
