@@ -107,6 +107,7 @@
 - [[Resilience]]
 - [[Retry Policies]]
 - [[Rich Domain Model]]
+- [[REPL Read–Eval–Print Loop]]
 
 # S
 - [[Strong Consistency]]

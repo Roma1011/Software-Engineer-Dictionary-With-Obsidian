@@ -171,6 +171,7 @@
   },
   "active": "52c8004cc37431b9",
   "lastOpenFiles": [
+    "Words/R/REPL Read–Eval–Print Loop.md",
     "Words/P/Plain Old Objects.md",
     "Dictionary.md",
     "Words/I/Invariant.md",
@@ -205,7 +206,6 @@
     "Words/S/SuD System under Design  Development  Discussion.md",
     "Words/S/Strong Consistency.md",
     "Words/S/Stateless.md",
-    "Words/S/Stateful.md",
-    "Words/S/Sharding.md"
+    "Words/S/Stateful.md"
   ]
 }
