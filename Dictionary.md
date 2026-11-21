@@ -4,6 +4,7 @@
 - [[APM]]
 - [[Anemic Domain Model]]
 - [[Aggregation]]
+- [[ACL]]
 
 # B
 - [[BASE]] - Basically Available, Soft state, Eventually consistent
@@ -23,6 +24,7 @@
 - [[Constituent Object]]
 - [[Component Object]]
 - [[Composition]]
+- [[Captive Dependency]]
 
 # D
 - [[DBaaS]] - Database as a Service
@@ -67,6 +69,7 @@
 - [[Informative Messages]]
 - [[Imperative Messages]]
 - [[Invariant]]
+- [[IAM]]
 
 # J
 
@@ -108,6 +111,7 @@
 - [[Retry Policies]]
 - [[Rich Domain Model]]
 - [[REPL Read–Eval–Print Loop]]
+- [[PoP Point of Presence]]
 
 # S
 - [[Strong Consistency]]
