@@ -92,6 +92,7 @@
 - [[OLTP Online Transaction Processing]]
 - [[OLTP vs. OLAP]]
 - [[Over-engineered solution]]
+- [[Offset]]
 
 
 # P
