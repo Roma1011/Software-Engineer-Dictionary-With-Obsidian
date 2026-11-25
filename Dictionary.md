@@ -25,6 +25,7 @@
 - [[Component Object]]
 - [[Composition]]
 - [[Captive Dependency]]
+- [[Copy-on-Write]] - COW
 
 # D
 - [[DBaaS]] - Database as a Service
@@ -50,6 +51,7 @@
 - [[Fault Tolerance]]
 - [[Forwards compatibility]]
 - [[Full compatibility]]
+- [[Fork]]
 
 # G
 
@@ -72,6 +74,7 @@
 - [[IAM]]
 
 # J
+- [[Join]]
 
 # K
 
